@@ -1,0 +1,6 @@
+﻿  function.c
+  main.c
+  Generating Code...
+C:\Users\small\OneDrive\Desktop\CPT_S121\Hirano_PA7\Hirano_PA7\function.c(246,1): warning C4715: 'dealer_redraw': not all control paths return a value
+  LINK : C:\Users\small\OneDrive\Desktop\CPT_S121\Hirano_PA7\x64\Debug\Hirano_PA7.exe not found or not built by the last incremental link; performing full link
+  Hirano_PA7.vcxproj -> C:\Users\small\OneDrive\Desktop\CPT_S121\Hirano_PA7\x64\Debug\Hirano_PA7.exe

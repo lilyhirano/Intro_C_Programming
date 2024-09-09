@@ -1,0 +1,6 @@
+﻿  functions.c
+C:\Users\small\OneDrive\Desktop\CPT_S121\Hirano_PA3\Hirano_PA3\functions.c(51,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\small\OneDrive\Desktop\CPT_S121\Hirano_PA3\Hirano_PA3\functions.c(185,10): warning C4098: 'print_double': 'void' function returning a value
+  main.c
+  Generating Code...
+  Hirano_PA3.vcxproj -> C:\Users\small\OneDrive\Desktop\CPT_S121\Hirano_PA3\x64\Debug\Hirano_PA3.exe

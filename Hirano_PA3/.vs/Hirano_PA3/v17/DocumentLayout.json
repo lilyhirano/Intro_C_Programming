@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\small\\OneDrive\\Desktop\\CPT_S121\\Hirano_PA3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2275A6FF-4688-49E8-88CD-A0C2565B9D80}|Hirano_PA3\\Hirano_PA3.vcxproj|C:\\Users\\small\\OneDrive\\Desktop\\CPT_S121\\Hirano_PA3\\Hirano_PA3\\functions.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2275A6FF-4688-49E8-88CD-A0C2565B9D80}|Hirano_PA3\\Hirano_PA3.vcxproj|solutionrelative:Hirano_PA3\\functions.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2275A6FF-4688-49E8-88CD-A0C2565B9D80}|Hirano_PA3\\Hirano_PA3.vcxproj|C:\\Users\\small\\OneDrive\\Desktop\\CPT_S121\\Hirano_PA3\\Hirano_PA3\\header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2275A6FF-4688-49E8-88CD-A0C2565B9D80}|Hirano_PA3\\Hirano_PA3.vcxproj|solutionrelative:Hirano_PA3\\header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2275A6FF-4688-49E8-88CD-A0C2565B9D80}|Hirano_PA3\\Hirano_PA3.vcxproj|C:\\Users\\small\\OneDrive\\Desktop\\CPT_S121\\Hirano_PA3\\Hirano_PA3\\output.dat||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2275A6FF-4688-49E8-88CD-A0C2565B9D80}|Hirano_PA3\\Hirano_PA3.vcxproj|solutionrelative:Hirano_PA3\\output.dat||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2275A6FF-4688-49E8-88CD-A0C2565B9D80}|Hirano_PA3\\Hirano_PA3.vcxproj|C:\\Users\\small\\OneDrive\\Desktop\\CPT_S121\\Hirano_PA3\\Hirano_PA3\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2275A6FF-4688-49E8-88CD-A0C2565B9D80}|Hirano_PA3\\Hirano_PA3.vcxproj|solutionrelative:Hirano_PA3\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 284,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "header.h",
+              "DocumentMoniker": "C:\\Users\\small\\OneDrive\\Desktop\\CPT_S121\\Hirano_PA3\\Hirano_PA3\\header.h",
+              "RelativeDocumentMoniker": "Hirano_PA3\\header.h",
+              "ToolTip": "C:\\Users\\small\\OneDrive\\Desktop\\CPT_S121\\Hirano_PA3\\Hirano_PA3\\header.h",
+              "RelativeToolTip": "Hirano_PA3\\header.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-02-06T02:20:09.696Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "functions.c",
+              "DocumentMoniker": "C:\\Users\\small\\OneDrive\\Desktop\\CPT_S121\\Hirano_PA3\\Hirano_PA3\\functions.c",
+              "RelativeDocumentMoniker": "Hirano_PA3\\functions.c",
+              "ToolTip": "C:\\Users\\small\\OneDrive\\Desktop\\CPT_S121\\Hirano_PA3\\Hirano_PA3\\functions.c",
+              "RelativeToolTip": "Hirano_PA3\\functions.c",
+              "ViewState": "AQIAAK8AAAAAAAAAAAAAAN0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-02-06T02:20:01.783Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\small\\OneDrive\\Desktop\\CPT_S121\\Hirano_PA3\\Hirano_PA3\\main.c",
+              "RelativeDocumentMoniker": "Hirano_PA3\\main.c",
+              "ToolTip": "C:\\Users\\small\\OneDrive\\Desktop\\CPT_S121\\Hirano_PA3\\Hirano_PA3\\main.c",
+              "RelativeToolTip": "Hirano_PA3\\main.c",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAACEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-02-06T02:19:47.684Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "output.dat",
+              "DocumentMoniker": "C:\\Users\\small\\OneDrive\\Desktop\\CPT_S121\\Hirano_PA3\\Hirano_PA3\\output.dat",
+              "RelativeDocumentMoniker": "Hirano_PA3\\output.dat",
+              "ToolTip": "C:\\Users\\small\\OneDrive\\Desktop\\CPT_S121\\Hirano_PA3\\Hirano_PA3\\output.dat",
+              "RelativeToolTip": "Hirano_PA3\\output.dat",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-14T00:02:15.568Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 70,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
